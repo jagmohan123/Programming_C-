@@ -9,6 +9,7 @@ public:
 	// Education(){
 	//   cout<<"I am default Constructor"<<endl;
 	// }
+// try at home
 
 	//default Constructor
 	// Education(int x){
@@ -96,4 +97,5 @@ int main()
 	Education E1(101);
 // 	Education E2(E1);
 	return 0;
+
 }
